@@ -34,6 +34,7 @@ if __name__ == '__main__':
     print(a//b)
     print(a/b)
 
+#looping statement
 if __name__ == '__main__':
     n = int(input())
     for i in range(n):
